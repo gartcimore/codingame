@@ -3,12 +3,11 @@ package org.gartcimore.codingame.easy;
 import java.util.Scanner;
 
 /**
- * Solution facile
- * Bon, on va être franc, ça paraît difficile n'est ce pas ? En réalité, cet énoncé est le même que celui que vous trouverez dans la section
- * "Expert" (Mars Lander lvl 3). C'est donc ce qui vous attend au tout dernier niveau de difficulté. Pour l'instant, votre objectif est de
- * bien lire l'énoncé (et les paramètres d'entrée et de sortie dans le dernier bloc ci-dessous), de regarder les tests à passer et d'essayer
- * de simplifier le problème au maximum. Ainsi, après avoir bien lu l'énoncé et si vous lancez l'unique test que vous devez passer pour
- * réussir votre mission, vous vous rendrez compte que :
+ * Solution facile Bon, on va être franc, ça paraît difficile n'est ce pas ? En réalité, cet énoncé est le même que celui que vous trouverez
+ * dans la section "Expert" (Mars Lander lvl 3). C'est donc ce qui vous attend au tout dernier niveau de difficulté. Pour l'instant, votre
+ * objectif est de bien lire l'énoncé (et les paramètres d'entrée et de sortie dans le dernier bloc ci-dessous), de regarder les tests à
+ * passer et d'essayer de simplifier le problème au maximum. Ainsi, après avoir bien lu l'énoncé et si vous lancez l'unique test que vous
+ * devez passer pour réussir votre mission, vous vous rendrez compte que :
  *
  * la zone d'atterrissage est juste en dessous du robot. Vous pouvez donc ignorer la rotation et toujours indiquer 0 en angle de rotation.
  * il vous suffit que votre vitesse d'atterrissage soit entre 0 et 40m/s. lorsque le robot chute, la vitesse verticale est négative. Lorsque
